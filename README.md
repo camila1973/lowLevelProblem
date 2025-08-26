@@ -38,6 +38,10 @@ python low_level_problem.py 4
 
 # Ítem 5: Imprime aristas {u, v, w} para insertar V' (si es posible)
 python low_level_problem.py 5
+
+# Item 6: insertar V' permitiendo V->V' (flujo exitoso)
+python low_level_problem.py 6   
+
 ```
 
 El grafo de ejemplo está en `EDGES` dentro de `low_level_problem.py`. Cambia esa constante si quieres probar otro caso.
